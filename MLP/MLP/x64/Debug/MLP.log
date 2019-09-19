@@ -1,0 +1,62 @@
+﻿  ActivatingFunction.cpp
+  Inputs.cpp
+  InputsFactory.cpp
+c:\users\mits\source\repos\mlp\mlp\mlp\txtreader.h(13): warning C4091: 'static ': ignored on left of 'TxtReader' when no variable is declared
+c:\users\mits\source\repos\mlp\mlp\mlp\inputsfactory.h(14): warning C4091: 'static ': ignored on left of 'InputsFactory' when no variable is declared
+  Layer.cpp
+c:\users\mits\source\repos\mlp\mlp\mlp\layer.h(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\layer.cpp(21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\layer.cpp(31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\layer.cpp(41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Matrix.cpp
+  MatrixToVector.cpp
+  MLP.cpp
+c:\users\mits\source\repos\mlp\mlp\mlp\layer.h(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.h(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.h(38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.h(41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\txtreader.h(13): warning C4091: 'static ': ignored on left of 'TxtReader' when no variable is declared
+c:\users\mits\source\repos\mlp\mlp\mlp\inputsfactory.h(14): warning C4091: 'static ': ignored on left of 'InputsFactory' when no variable is declared
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(69): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(74): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(79): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(89): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(94): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(2583): warning C4244: 'argument': conversion from '_Diff' to 'int', possible loss of data
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(2607): note: see reference to function template instantiation 'void std::_Random_shuffle1<_RanIt,int(int)>(_RanIt,_RanIt,_RngFn (__cdecl &))' being compiled
+          with
+          [
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Inputs>>>,
+              _RngFn=int (int)
+          ]
+  c:\users\mits\source\repos\mlp\mlp\mlp\mlp.cpp(104): note: see reference to function template instantiation 'void std::random_shuffle<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int(__cdecl &)(int)>(_RanIt,_RanIt,_RngFn)' being compiled
+          with
+          [
+              _Ty=Inputs,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Inputs>>>,
+              _RngFn=int (__cdecl &)(int)
+          ]
+  MultiplyMatrix.cpp
+  NeuralNetwork.cpp
+c:\users\mits\source\repos\mlp\mlp\mlp\layer.h(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.h(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.h(38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.h(41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.cpp(6): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.cpp(71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.cpp(73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.cpp(126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.cpp(186): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mits\source\repos\mlp\mlp\mlp\neuralnetwork.cpp(271): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Neuron.cpp
+  TxtReader.cpp
+c:\users\mits\source\repos\mlp\mlp\mlp\txtreader.h(13): warning C4091: 'static ': ignored on left of 'TxtReader' when no variable is declared
+  Generating Code...
+  MLP.vcxproj -> C:\Users\Mits\source\repos\MLP\MLP\x64\Debug\MLP.exe
